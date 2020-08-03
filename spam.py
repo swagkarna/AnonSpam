@@ -1,16 +1,14 @@
-time.sleep(5)
-def install():
-    try:
-       import threading
-       import subprocess
-       import keyboard
-       import time
-       from colorama import Fore, Style,init
-    except ModuleNotFoundError:
-          subprocess.call("pip3 install keyboard", shell=True)
-          subprocess.call("pip3 install colorama", shell=True)
+try:
+  import threading
+  import subprocess
+  import keyboard
+  import time
+  from colorama import Fore, Style,init
+except ModuleNotFoundError:
+        subprocess.call("pip3 install keyboard", shell=True)
+        subprocess.call("pip3 install colorama", shell=True)
         
-install()
+
 banner = """
 
 
@@ -31,7 +29,7 @@ banner = """
 """
 print(Style.BRIGHT+Fore.RED+banner+Fore.RESET)
 
-
+time.sleep(5)
 
       
 
