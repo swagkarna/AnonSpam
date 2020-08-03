@@ -1,2 +1,2 @@
 # AnonSpam
-Spam comments with AnonSpam
+<center><img src ="img.jpg"></center>
