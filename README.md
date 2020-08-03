@@ -1,2 +1,2 @@
-# AnonSpam
-<center><img src ="img.jpg"></center>
+#                                             AnonSpam
+                                          <img src ="img.jpg" align="center">
