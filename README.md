@@ -20,7 +20,7 @@ Clone this repository
 # Usage :
 ## Just open spam.txt . Edit the text as you wish 
 ## Now Run the script. Place cursor over the Comment Box which you wish to spam
-## Boom!. Now the script will do everything for you. Just take a break with cofFee...
+## Boom!. Now the script will do everything for you. Just take a break with coffee...
 
 # Disclaimer :
 ## Use it at your own risk. I am not responsible for your action.
