@@ -3,7 +3,7 @@ import subprocess
 import keyboard
 import time
 from colorama import Fore, Style,init
-time.sleep(2)
+time.sleep(5)
 def install():
     try:
        subprocess.call("pip3 install keyboard", shell=True)
