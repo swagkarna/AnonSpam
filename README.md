@@ -12,7 +12,6 @@ Clone this repository
 3. python3 spam.py
 ```
 # Usage :
-## Just open spam.txt . Edit the text as you wish 
 ## Now Run the script. Place cursor over the Comment Box which you wish to spam
 ## Boom!. Now the script will do everything for you. Just take a break with coffee...
 
