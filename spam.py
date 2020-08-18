@@ -37,7 +37,7 @@ print(Style.BRIGHT+Fore.RED+banner+Fore.RESET)
 
       
 class spam :
-     def checkfile(self) :
+    def checkfile(self) :
         if path.exists('spam.txt'):
            ask = input(str("File already Present\nDo you want to over write(yes or no) : "))
            if "yes" in ask :
